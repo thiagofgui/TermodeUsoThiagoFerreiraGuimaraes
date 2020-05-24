@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Validação de Campos</string>
+    <string name="texto1">Bem vindo entregador!</string>
+    <string name="texto2">Digite seus dados pessoais.</string>
+    <string name="Txt_termoUso">Li e Concordo com a Politica de Privacidade.</string>
+</resources>
